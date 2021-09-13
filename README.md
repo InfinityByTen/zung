@@ -60,7 +60,7 @@ Not there yet, feel free to open a issue. :'(
 See the [example](./examples/src/main.rs) to get a rough sense of the whole
 syntax. बस इतना ही.
 
-## les contributions
+## Contributions
 
 First of all, _धन्यवाद, शुक्रिया_ for considering participating to this joke, ~~The future users of operating system written in hindi rust~~ will thank you later! Feel free to throw in words from your own dialects in as well, and open a pull-request against the `mukhya` (Hindi for
 `main`) branch.
@@ -81,6 +81,6 @@ Please don't introduce swear words, we arent supposed to be rude programmers.
 - Italian: [ruggine](https://github.com/DamianX/ruggine)
 - French: [rouille](https://github.com/bnjbvr/rouille)
 
-## la license
+## License
 
 [WTFPL](http://www.wtfpl.net/).
