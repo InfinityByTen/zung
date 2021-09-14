@@ -11,6 +11,8 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "छाप" => "print",
         "बाहरी" => "extern",
         "टोकरा" => "crate",
+        "इस्तेमाल" => "use",
+        "मानक" => "std",
 
         _ => &ident_str,
     };
