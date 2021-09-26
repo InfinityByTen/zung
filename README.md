@@ -1,9 +1,9 @@
-# zung 
+# zung
 
-_क्या आप थके है_ from writing Rust programs in English? Do you like saying
-"हट" a lot? Would you like to try something different, in an exotic and
-funny-sounding language? Would you want to bring some Hindi touch to your
-programs?
+## _क्या आपके कोड मे जंग है?_
+
+Would you like to try something different, in an exotic and funny-sounding language?
+Would you want to bring some Hindi touch to your programs?
 
 **zung** (Hindi for _Rust_) is here to save your day, as it allows you to
 write Rust programs in Hindi, using Hindi keywords, Hindi function names,
@@ -13,9 +13,10 @@ You don't like the vibes of built-in translation? Don't worry! Open a issue abou
 Or Hindi Rust is fully compatible with Vanilla Rust, so you can have a nice hindi-english smoothie of a program.
 
 ### Purpose
+
 Maybe making a operating system (I am looking at you, future contributors) with hindi code or flexing off ur code in hindi, idk.
 
-<!-- 
+<!--
 Here's an example of what can be achieved with Zung:
 
 ### trait and impl (aka convention et réalisation)
@@ -71,7 +72,7 @@ Please don't introduce swear words, we arent supposed to be rude programmers.
 
 - horsin around
 - playing with raw proc macros
-- Fulfilling my wish of programming in hindi one day. 
+- Fulfilling my wish of programming in hindi one day.
 
 ## Other languages
 
