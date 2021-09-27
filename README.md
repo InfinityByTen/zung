@@ -98,6 +98,11 @@ Please don't introduce swear words, though: we will not excuse your French.
 - Russian: [ржавчина](https://github.com/FluxIndustries/rzhavchina)
 - Esperanto: [rustteksto](https://github.com/dscottboggs/rustteksto)
 - Hindi: [zung](https://github.com/rishit-khandelwal/zung)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> bnjbvr-principale
 - Hungarian: [rozsda](https://github.com/jozsefsallai/rozsda)
 - Chinese: [xiu (锈)](https://github.com/lucifer1004/xiu)
 - Spanish: [oxido](https://github.com/fdschonborn/oxido)
@@ -107,6 +112,10 @@ Please don't introduce swear words, though: we will not excuse your French.
 - Turkish: [pas](https://github.com/ekimb/pas)
 - Vietnamese: [gỉ](https://github.com/Huy-Ngo/gir)
 - Japanese: [sabi (錆)](https://github.com/yuk1ty/sabi)
+<<<<<<< HEAD
+=======
+>>>>>>> 4d59d697244fa4a62f8b3a803527cc8ae5a8731e
+>>>>>>> bnjbvr-principale
 
 ## un grand merci
 
